@@ -1,1 +1,26 @@
 Detta är textfilen i nya branchen.
+
+$ git log --graph
+* commit e9e3e572e2329ae3df754afaf3578ee8aa20453b (HEAD -> master, origin/GitLab1Branch, GitLab1Branch)
+| Author: Petra Andreasson <petra.andreasson@iths.se>
+| Date:   Wed Nov 4 10:33:58 2020 +0100
+|
+|     Initial commit of Lab1Text fil
+|
+* commit 63c9455963ac23435db7d30d4b495a909618ddc4 (origin/master)
+| Author: Petra Andreasson <petra.andreasson@iths.se>
+| Date:   Wed Nov 4 10:22:10 2020 +0100
+|
+|     added directory to gitignore
+|
+* commit dfd20b6b8b971ed064fcc860d8ffe5a87c937597
+| Author: Petra Andreasson <petra.andreasson@iths.se>
+| Date:   Wed Nov 4 10:17:50 2020 +0100
+|
+|     added README.md and updated gitignore
+|
+* commit 5808b60dce7598746d695918bfc780b310d1f1ee
+  Author: Petra Andreasson <petra.andreasson@iths.se>
+  Date:   Wed Nov 4 10:06:25 2020 +0100
+
+      first commit
